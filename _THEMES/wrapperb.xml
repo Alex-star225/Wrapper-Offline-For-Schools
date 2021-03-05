@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<theme id="common" name="Common">
+<theme id="wrapperb" name="Wrapper Offline Blank Themes">
 	<char id="matchBoyNew" name="Match Boy" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="N" aid="3056" money="0" sharing="0">
 		<category name="emotion">
 			<action id="angry.swf" name="angry" loop="Y" totalframe="50" enable="Y" aid="3059" />
