@@ -3639,6 +3639,198 @@
 			"source": "voiceforge",
 			"arg": "Marta",
 			"desc": "Marta"
+		},
+		"amy_polly2": {
+			"country": "GB",
+			"language": "en",
+			"gender": "F",
+			"source": "pollyextra",
+			"arg": 1,
+			"desc": "Amy (Polly 2)"
+		},
+		"brian2": {
+			"country": "GB",
+			"language": "en",
+			"gender": "M",
+			"source": "pollyextra",
+			"arg": 2,
+			"desc": "Brian (Polly 2)"
+		},
+		"emma_polly2": {
+			"country": "GB",
+			"language": "en",
+			"gender": "F",
+			"source": "pollyextra",
+			"arg": 3,
+			"desc": "Emma (Polly 2)"
+		},
+		"salli2": {
+			"country": "US",
+			"language": "en",
+			"gender": "F",
+			"source": "pollyextra",
+			"arg": 4,
+			"desc": "Salli (Polly 2)"
+		},
+		"joey2": {
+			"country": "US",
+			"language": "en",
+			"gender": "M",
+			"source": "pollyextra",
+			"arg": 5,
+			"desc": "Joey (Polly 2)"
+		},
+		"ivy2": {
+			"country": "US",
+			"language": "en",
+			"gender": "F",
+			"source": "pollyextra",
+			"arg": 8,
+			"desc": "Ivy (Polly 2)"
+		},
+		"justin2": {
+			"country": "US",
+			"language": "en",
+			"gender": "M",
+			"source": "pollyextra",
+			"arg": 10,
+			"desc": "Justin (Polly 2)"
+		},
+		"kendra2": {
+			"country": "US",
+			"language": "en",
+			"gender": "F",
+			"source": "pollyextra",
+			"arg": 11,
+			"desc": "Kendra (Polly 2)"
+		},
+		"kimberly2": {
+			"country": "US",
+			"language": "en",
+			"gender": "F",
+			"source": "pollyextra",
+			"arg": 12,
+			"desc": "Kimberly (Polly 2)"
+		},
+		"nicole2": {
+			"country": "AU",
+			"language": "en",
+			"gender": "F",
+			"source": "pollyextra",
+			"arg": 13,
+			"desc": "Nicole (Polly 2)"
+		},
+		"russell2": {
+			"country": "AU",
+			"language": "en",
+			"gender": "M",
+			"source": "pollyextra",
+			"arg": 14,
+			"desc": "Russell (Polly 2)"
+		},
+		"raveena2": {
+			"country": "IN",
+			"language": "en",
+			"gender": "F",
+			"source": "pollyextra",
+			"arg": 15,
+			"desc": "Raveena (Polly 2)"
+		},
+		"marlene2": {
+			"country": "DE",
+			"language": "de",
+			"gender": "F",
+			"source": "pollyextra",
+			"arg": 18,
+			"desc": "Marlene (Polly 2)"
+		},
+		"hans2": {
+			"country": "DE",
+			"language": "de",
+			"gender": "M",
+			"source": "pollyextra",
+			"arg": 19,
+			"desc": "Hans (Polly 2)"
+		},
+		"gwyneth2": {
+			"country": "GB",
+			"language": "en",
+			"gender": "F",
+			"source": "pollyextra",
+			"arg": 20,
+			"desc": "Gwyneth (Polly 2)"
+		},
+		"geraint2": {
+			"country": "GB",
+			"language": "en",
+			"gender": "M",
+			"source": "pollyextra",
+			"arg": 21,
+			"desc": "Geraint (Polly 2)"
+		},
+		"conchita2": {
+			"country": "ES",
+			"language": "es",
+			"gender": "F",
+			"source": "pollyextra",
+			"arg": 24,
+			"desc": "Conchita (Polly 2)"
+		},
+		"enrique_polly2": {
+			"country": "ES",
+			"language": "es",
+			"gender": "M",
+			"source": "pollyextra",
+			"arg": 25,
+			"desc": "Enrique (Polly 2)"
+		},
+		"penélope2": {
+			"country": "US",
+			"language": "es",
+			"gender": "F",
+			"source": "pollyextra",
+			"arg": 26,
+			"desc": "Penélope (Polly 2)"
+		},
+		"miguel_polly2": {
+			"country": "US",
+			"language": "es",
+			"gender": "M",
+			"source": "pollyextra",
+			"arg": 27,
+			"desc": "Miguel (Polly 2)"
+		},
+		"carla2": {
+			"country": "IT",
+			"language": "it",
+			"gender": "F",
+			"source": "pollyextra",
+			"arg": 33,
+			"desc": "Carla (Polly 2)"
+		},
+		"giorgio2": {
+			"country": "IT",
+			"language": "it",
+			"gender": "M",
+			"source": "pollyextra",
+			"arg": 34,
+			"desc": "Giorgio (Polly 2)"
+		},
+		"maxim2": {
+			"country": "RU",
+			"language": "ru",
+			"gender": "M",
+			"source": "pollyextra",
+			"arg": 47,
+			"desc": "Maxim (Polly 2)"
+		},
+		"tatyana2": {
+			"country": "RU",
+			"language": "ru",
+			"gender": "F",
+			"source": "pollyextra",
+			"arg": 48,
+			"desc": "Tatyana (Polly 2)"
 		}
 	}
 }

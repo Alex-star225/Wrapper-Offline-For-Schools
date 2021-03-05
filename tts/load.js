@@ -208,6 +208,28 @@ function processVoice(voiceName, text) {
                 req.end();
                 break;
             }
+			case 'pollyextra': {
+				var buffers = [];
+				var req = https.request({
+					hostname: 'pollyvoices.com',
+					port: '443',
+					path: '/api/sound/add',
+					method: 'POST',
+					headers: {
+						'Content-Type': 'application/x-www-form-urlencoded',
+					},
+				}, r => {
+					r.on('data', b => buffers.push(b));
+					r.on('end', () => {
+						var json = JSON.parse(Buffer.concat(buffers));
+						if (json.file) get(`https://pollyvoices.com${json.file}`).then(res);
+						else rej();
+					});
+				});
+				req.write(qs.encode({ text: text, voice: voice.arg }));
+				req.end();
+				break;
+			}
 		}
 	});
 }
